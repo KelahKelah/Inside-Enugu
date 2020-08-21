@@ -3,4 +3,4 @@
 # Technologies
 * html
 * css 
-* Javascript
+
