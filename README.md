@@ -1,5 +1,5 @@
-# About Inside-Enugu
-* Inside Enugu a website that displays a collection of hotels, real estate properties and new headlines in Enugu state.
+# About Advanced css
+* A deep dive into the unending css selectors and  some css tricks 
 # Technologies
 * html
 * css 
