@@ -2,9 +2,6 @@ body {
     box-sizing: border-box;
     font-family: 'Do Hyeon', sans-serif;
 }
-.row {
-    /* background-color: aqua; */
-}
 .photo {
     width: 60px;
     height: 60px;
@@ -17,7 +14,6 @@ a[href] {
 .profile .card-title {
     font-family: 'Do Hyeon', sans-serif;
     font-size: 1em;
-
 }
 .card > .item {
     display: flex;
@@ -27,14 +23,32 @@ a[href] {
     font-size: 2em;
     font-family: 'Do Hyeon', sans-serif;
 }
+.head {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 1.2em;
+}
 .second .card {
 margin-bottom: 5%;
 }
 p {
     font-size: 1em ;
     color: 808080;
-    /* background-color: blueviolet; */
 }
-/* span {
-    display: inline !important;
-} */
+.action .fas,.text-muted {
+    font-size: 0.8em;
+    font-weight: inherit;
+}
+.fab {
+    font-size: 1.4em;
+}
+.fa-facebook {
+    background-color: #fff;
+    border-radius: 50%;
+}
+.profile h5 {
+    display: inline
+}
+span {
+    font-size: 0.7em;
+    color: #a6a6a6;
+}
