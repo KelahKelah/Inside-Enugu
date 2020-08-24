@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.row {
+    /* background-color: aqua; */
+}
+.photo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 3%;
+}
+a[href] {
+    border-radius: 30px;
+}
+.profile .card-title {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 1em;
+
+}
+.card > .item {
+    display: flex;
+}
+.header {
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.second .card {
+margin-bottom: 5%;
+}
+p {
+    font-size: 1em ;
+    color: 808080;
+    /* background-color: blueviolet; */
+}
+/* span {
+    display: inline !important;
+} */
