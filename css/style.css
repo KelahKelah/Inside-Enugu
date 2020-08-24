@@ -5,13 +5,7 @@
   padding: 0;
   font-family: 'Do Hyeon', sans-serif;
 }
-/* .wrapper {
-width: 70%;
-height: 100%;
-margin: 0px;
-margin: auto ;
-margin-top: 0px !important;
-} */
+
 .header {
   font-weight: bolder;
   font-size: 60px;
@@ -19,49 +13,13 @@ margin-top: 0px !important;
   width: 30%;
   height: 10%;
   margin: 100px 17px;
-  /* background-color: darkgoldenrod; */
-  /* margin: 250px; */
+ 
 }
-/* .container {    
-  margin: 70px 50px;
-} */
 
-/* SPECIFIC STYLE ROW FOR HOME.HTML COMMENTED  */
-/* .row {
-margin: 40px 0px;;
-} */
-/* .item {
-  height: 200px;
-  width: 500px;
-  background-color: brown;
-  margin: 10px;
-} */
-
-/* SPECIFIC STYLE ROW i COMMENTED  */
-
-/* i {
-  color: #2eb8b8;
-  font-size: 2.5em;
-  font-weight: inherit;
-} */
-/* SPECIFIC STYLE ROW p COMMENTED  */
-
-/* p {
-  color: #b3b3b3;
-} */
-/* SPECIFIC STYLE h3 FOR HOME.HTML COMMENTED  */
-
-/* h3 {
-  font-family: 'Roboto', serif;
-  font-weight: bold;
-} */
-
-
-/* SHOP STYLE  */
-.container {
+.body-container {
   height: 100%;
 }
-.row:first-child { 
+.body-row:first-child { 
   height: 70%;
   width: 100%;
   padding: 10%;
@@ -70,28 +28,28 @@ margin: 40px 0px;;
   align-content: center;
   color: #fff;
 }
-.row:nth-child(2) {
+.body-row:nth-child(2) {
   height: 60%;
   width: 100%;
   padding: 7%;
   align-content: center;
   border: 1px solid #e6e6e6;
 }
-.row:nth-child(3) {
+.body-row:nth-child(3) {
   margin: auto;
   width: 100%;
   width: 50%;
   margin-top: 50px;
   padding: 3%;
 }
-.row:nth-child(4) {
+.body-row:nth-child(4) {
   /* background-color: darkorange; */
   height: 60%;
   width: 100%;
   padding-bottom:5%;
 }
 
-/* .row:last-child {
+/* .body-row:last-child {
   background-color: darkred;
   margin-top: 50px;
   width: 100%;
@@ -148,10 +106,10 @@ margin-bottom: 30px;
   background-color: #26004d;
   border: 2px solid black;
   height: 300px;
-  
 }
 .first {
-  background-color: #cc99ff;
   border: 2px solid black;
   height: 300px;
 }
+
+
