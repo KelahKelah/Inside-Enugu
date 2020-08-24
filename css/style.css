@@ -144,3 +144,14 @@ margin-bottom: 30px;
   /* background-color: darkseagreen; */
   /* width: 90%; */
 }
+.second {
+  background-color: #26004d;
+  border: 2px solid black;
+  height: 300px;
+  
+}
+.first {
+  background-color: #cc99ff;
+  border: 2px solid black;
+  height: 300px;
+}
