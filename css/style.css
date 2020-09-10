@@ -113,4 +113,10 @@ margin-bottom: 30px;
 .photo {
   object-fit: cover;
 }
-
+.profile {
+  /* background-color: lawngreen; */
+  padding: 10px;
+}
+.action {
+  color: #26004d;
+}
